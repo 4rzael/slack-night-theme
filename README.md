@@ -138,3 +138,6 @@ border-color: #09F;
 
 ### Restart
 Now restart your application and **Enjoy!**
+
+# References
+[Slack Black Theme](https://github.com/widget-/slack-black-theme)
